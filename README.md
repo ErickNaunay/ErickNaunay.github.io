@@ -1,4 +1,4 @@
-# ErickNaunay.github.io
+# Personal Portfolio
 <a class="anchor" id="Projects"></a>
 >## Projects
 Include a list of the projects:
